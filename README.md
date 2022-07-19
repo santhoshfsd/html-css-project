@@ -35,3 +35,15 @@
 
 https://fonts.google.com/specimen/Roboto
 `
+
+
+# expanding effect 
+
+- flexbox
+- css transition
+- event listeners
+
+# Dom functions 
+- querySelector
+- querySelectorAll
+- classList.add
